@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![코드트리|실력진단-lkh117](https://banner.codetree.ai/v1/banner/lkh117)](https://www.codetree.ai/profiles/lkh117) [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=james_lee)](https://solved.ac/james_lee)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=james_lee)](https://solved.ac/james_lee)
+
+[![코드트리|실력진단-lkh117](https://banner.codetree.ai/v1/banner/lkh117)](https://www.codetree.ai/profiles/lkh117) 
 
 
 <!--
